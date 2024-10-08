@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)](https://codegrills.in
+(https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)
 <h1 align="center">Hi 👋, I'm CHIRAG PRAJAPAT</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
