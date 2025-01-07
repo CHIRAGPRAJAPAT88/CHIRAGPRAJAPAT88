@@ -1,7 +1,6 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)]
 <h1 align="center">Hi 👋, I'm CHIRAG PRAJAPAT</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragprajapat88&label=Profile%20views&color=0e75b6&style=flat" alt="chiragprajapat88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragprajapat88" alt="chiragprajapat88" /></a> </p>
