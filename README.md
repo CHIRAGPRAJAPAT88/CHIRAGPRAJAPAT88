@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)]
+[![MasterHead](https://learning.360-bytes.com/wp-content/uploads/2023/12/FULL-STACK.jpg)]
 <h1 align="center">Hi 👋, I'm CHIRAG PRAJAPAT</h1>
 <h3 align="center"> Full-Stack Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragprajapat88&label=Profile%20views&color=0e75b6&style=flat" alt="chiragprajapat88" /> </p>
