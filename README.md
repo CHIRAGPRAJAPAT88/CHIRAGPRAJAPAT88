@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragprajapat88" alt="chiragprajapat88" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/chiragprajapat88/](https://www.linkedin.com/in/chiragprajapat88/)
 
 - 📫 How to reach me **prajapatchirag2000@gmail.com**
