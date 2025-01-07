@@ -1,4 +1,4 @@
-[![MasterHead](https://learning.360-bytes.com/wp-content/uploads/2023/12/FULL-STACK.jpg)]
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQEtml-fhwGpTQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701939855578?e=1741824000&v=beta&t=AbYq1r_xSn-EFExyAJgTvzIGn85wq_vEX3rn2xmVqMs)]
 <h1 align="center">Hi 👋, I'm CHIRAG PRAJAPAT</h1>
 <h3 align="center"> Full-Stack Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragprajapat88&label=Profile%20views&color=0e75b6&style=flat" alt="chiragprajapat88" /> </p>
