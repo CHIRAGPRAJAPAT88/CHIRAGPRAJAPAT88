@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQEtml-fhwGpTQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701939855578?e=1741824000&v=beta&t=AbYq1r_xSn-EFExyAJgTvzIGn85wq_vEX3rn2xmVqMs)]
+[![MasterHead](https://www.fiverr.com/arfatrahman182/create-your-pixel-perfect-frontend-using-reactjs-and-nextjs)]
 <h1 align="center">Hi 👋, I'm CHIRAG PRAJAPAT</h1>
 <h3 align="center"> Full-Stack Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragprajapat88&label=Profile%20views&color=0e75b6&style=flat" alt="chiragprajapat88" /> </p>
