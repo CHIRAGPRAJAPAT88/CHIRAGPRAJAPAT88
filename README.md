@@ -3,8 +3,6 @@
 <h3 align="center"> Full-Stack Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragprajapat88&label=Profile%20views&color=0e75b6&style=flat" alt="chiragprajapat88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragprajapat88" alt="chiragprajapat88" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/chiragprajapat88/](https://www.linkedin.com/in/chiragprajapat88/)
 
 - 📫 How to reach me **prajapatchirag2000@gmail.com**
